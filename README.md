@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+Hi Everyone
+Im mr violetcosmos and im a student with a passion for tech
+Ai and machine learning intrigues me
+elitobybirth
 <!--
 **violetcosmos041/violetcosmos041** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
